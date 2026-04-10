@@ -6,6 +6,8 @@ Smart Contract desenvolvido em **Solidity** com o objetivo de simular um sistema
 
 ## 📌 Objetivo
 
+Atividade Smart Contracts - Desenvolvimento de Smart Contract Básico
+[WEB 3] Trilha 1 - WEB 3.0 - Residência TIC - 29
 Demonstrar na prática o funcionamento de um Smart Contract na blockchain Ethereum, utilizando conceitos fundamentais como:
 
 - Smart Contracts
